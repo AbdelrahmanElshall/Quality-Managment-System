@@ -1,0 +1,4 @@
+- enable iis
+- add user login in ssms and give it sysadmin
+- set custom error mode to On 
+- from iis --> application pool --> advanced setting --> set Enable 32-bit applications to true
